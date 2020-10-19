@@ -11,3 +11,4 @@ title: Sevak Bedrosian - CIT 480
 # [Blog 3](https://sevak84.github.io/sb.github.io/posts/2020/09/25/blog3.html)
 # [Blog 4](https://sevak84.github.io/sb.github.io/posts/2020/10/03/blog4.html)
 # [Blog 5](https://sevak84.github.io/sb.github.io/posts/2020/10/09/blog5.html)
+# [Blog 6](https://sevak84.github.io/sb.github.io/posts/2020/10/16/blog6.html)
