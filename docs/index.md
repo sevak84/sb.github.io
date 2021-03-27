@@ -9,4 +9,4 @@ title: Sevak Bedrosian - CIT 481
 # [Blog 1](https://sevak84.github.io/sb.github.io/posts/2021/02/26/blog1.html)
 # [Blog 2](https://sevak84.github.io/sb.github.io/posts/2021/03/05/blog2.html)
 # [Blog 3](https://sevak84.github.io/sb.github.io/posts/2021/03/12/blog3.html)
-# [Blog 4](https://sevak84.github.io/sb.github.io/posts/2021/03/26/blog3.html)
+# [Blog 4](https://sevak84.github.io/sb.github.io/posts/2021/03/26/blog4.html)
